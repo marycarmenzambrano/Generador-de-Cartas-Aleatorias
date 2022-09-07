@@ -35,25 +35,27 @@ button{
     
 }
 
-#resul{
+#pinta-arriba{
     padding: 5px;
     font-size: 50px;
     min-width: 299px;
     border-radius: 24px;
     text-align: left;
-    
-
-   
+     
 }
 
-#numbers{
+#pinta-abajo{
     text-align: right;
+    padding: 5px;
     font-size: 50px;
-  
+    min-width: 299px;
+    border-radius: 24px;
+    
 }
 
 
-#cards{
+
+#numeros{
     position: center;
     margin: auto;
     top: 20px;
