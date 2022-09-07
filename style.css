@@ -1,0 +1,64 @@
+.fondo{
+    background: black;
+}
+
+#contenedor{
+    width: 350px;
+    height: 500px;
+    background: white;
+    border-radius: 10px;
+    padding: 16px 8px;
+    margin: auto;
+    box-shadow: 20px 20px 0 0 red;
+    font-size: 100px;
+    text-align: center;
+    
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+button{
+    width: 86px;
+    height: 43px;
+    background: red;
+    color: black;
+    border-radius: 14px;
+    outline: none;
+    margin: 12px;
+    position:absolute;
+    
+}
+
+#resul{
+    padding: 5px;
+    font-size: 50px;
+    min-width: 299px;
+    border-radius: 24px;
+    text-align: left;
+    
+
+   
+}
+
+#numbers{
+    text-align: right;
+    font-size: 50px;
+  
+}
+
+
+#cards{
+    position: center;
+    margin: auto;
+    top: 20px;
+    left: 20px;
+   
+
+}
+
